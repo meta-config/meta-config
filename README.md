@@ -1,8 +1,8 @@
 <h1 align="center">Samar Singh</h1>
 
-<h3 align="center">
-Systems-Oriented Developer • Backend Infrastructure • Linux Ecosystems
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Systems-Oriented+Developer;Backend+Infrastructure;Linux+Ecosystems" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meta-config&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge"/>
