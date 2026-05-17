@@ -152,16 +152,26 @@ interests:
 </p>
 
 ---
-
-# 📈 GitHub Presence
+```md
+# 👾 Pacman Contribution Graph
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Infrastructure;Distributed+Systems;Linux+Environments;Terminal-Centric+Development" />
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meta-config/meta-config/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meta-config/meta-config/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/meta-config/meta-config/pacman-output/pacman-contribution-graph.svg">
-</picture>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/meta-config/meta-config/pacman-output/pacman-contribution-graph-dark.svg"
+    >
+    
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/meta-config/meta-config/pacman-output/pacman-contribution-graph.svg"
+    >
 
-###
+    <img 
+      alt="pacman contribution graph" 
+      src="https://raw.githubusercontent.com/meta-config/meta-config/pacman-output/pacman-contribution-graph.svg"
+    >
+  </picture>
+</p>
+```
+
