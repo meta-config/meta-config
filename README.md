@@ -19,13 +19,18 @@ Interested in software architecture, low-level computing, psychology, philosophy
 
 # Connect
 
+<p align="left">
+  
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://instagram.com/smr.ext)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samarsingh1)
 [![Mail](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail)](mailto:meta.config.smr@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/meta-config-smr/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-111111?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/meta_config)
 [![Codeforces](https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces)](https://codeforces.com/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-111111?style=for-the-badge&logo=codechef)](https://codechef.com/)
+
+</p>
 
 ---
 
@@ -59,16 +64,17 @@ Interested in software architecture, low-level computing, psychology, philosophy
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meta-config&theme=tokyonight&hide_border=true&show_icons=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meta-config&theme=tokyonight&hide_border=true" height="165"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=meta-config&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=meta-config&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meta-config&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meta-config&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meta-config&color=grey&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=meta-config&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
