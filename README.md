@@ -17,6 +17,18 @@ Interested in software architecture, low-level computing, psychology, philosophy
 
 ---
 
+# Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://instagram.com/smr.ext)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samarsingh1)
+[![Mail](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail)](mailto:meta.config.smr@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces)](https://codeforces.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-111111?style=for-the-badge&logo=codechef)](https://codechef.com/)
+
+---
+
 # Tech Stack
 
 ### Languages
@@ -54,14 +66,6 @@ Interested in software architecture, low-level computing, psychology, philosophy
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meta-config&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# Connect
-
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://instagram.com/smr.ext)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samarsingh1)
-[![Mail](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail)](mailto:meta.config.smr@gmail.com)
 
 ---
 
