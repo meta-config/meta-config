@@ -162,3 +162,8 @@ interests:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=meta-config&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meta-config/meta-config/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meta-config/meta-config/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/meta-config/meta-config/pacman-output/pacman-contribution-graph.svg">
+</picture>
