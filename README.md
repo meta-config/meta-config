@@ -1,19 +1,45 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```bash
-> systems-oriented developer
-> linux enthusiast
-> backend infrastructure explorer
-> terminal-first workflow advocate
+<div align="left">
+
+```txt
+systems-oriented developer
+linux enthusiast
+backend infrastructure explorer
+terminal-first workflow advocate
 ```
 
-Currently engineering software with an emphasis on systems thinking, scalability, and architectural clarity.
+</div>
 
-Exploring distributed systems, backend infrastructure, Redis, Kafka, Docker, HTTPS server configuration, and containerized workflows.
+```yaml
+name: Samar Singh
+focus:
+  - Distributed Systems
+  - Backend Infrastructure
+  - Linux Ecosystems
+  - Developer Tooling
+  - Scalable Architectures
 
-Working extensively within Linux environments — focused on Vim, networking, performance optimization, terminal-centric tooling, and Linux ricing.
+currently_exploring:
+  - Redis
+  - Kafka
+  - Docker & Docker Compose
+  - HTTPS Server Configuration
+  - Networking
+  - Performance Optimization
 
-Interested in software architecture, low-level computing, psychology, philosophy, and literature.
+environment:
+  editor: Vim
+  os: Linux
+  workflow: terminal-centric
+
+interests:
+  - Software Architecture
+  - Low-level Computing
+  - Psychology
+  - Philosophy
+  - Literature
+```
 
 ---
 
@@ -63,13 +89,27 @@ Interested in software architecture, low-level computing, psychology, philosophy
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
 
+### Frontend
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ### Backend & Infrastructure
 
 ![NodeJS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-0D1117?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### AI / Data
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Development Environment
 
@@ -80,37 +120,12 @@ Interested in software architecture, low-level computing, psychology, philosophy
 
 ---
 
-# GitHub Analytics
+# Profile Views
 
 <p align="center">
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=meta-config&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"
-  />
-
-  <img 
-    width="49%" 
-    src="https://streak-stats.demolab.com?user=meta-config&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=1800"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Profile+Traffic;Systems+%7C+Infrastructure+%7C+Linux" />
 </p>
 
 <p align="center">
-  <img 
-    width="42%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meta-config&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"
-  />
-</p>
-
----
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=header&text=PROFILE%20VIEWS&fontColor=58A6FF&fontSize=24&animation=fadeIn"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=meta-config&label=VISITORS&color=1f6feb&style=for-the-badge"
-  />
+  <img src="https://komarev.com/ghpvc/?username=meta-config&label=VISITORS&color=1f6feb&style=for-the-badge"/>
 </p>
