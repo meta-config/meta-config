@@ -1,4 +1,8 @@
-<h1 align="center">Samar Singh</h1>
+<div align="center">
+
+# 𝚂𝚊𝚖𝚊𝚛 𝚂𝚒𝚗𝚐𝚑
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Systems-Oriented+Developer;Backend+Infrastructure;Linux+Ecosystems" />
@@ -7,6 +11,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meta-config&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge"/>
 </p>
+
+</div>
 
 ---
 
@@ -150,6 +156,32 @@ interests:
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
+
+---
+
+# 👾 Pacman Contribution Graph
+
+<p align="center">
+  <picture>
+
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/meta-config/meta-config/pacman-output/pacman-contribution-graph-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/meta-config/meta-config/pacman-output/pacman-contribution-graph.svg"
+    />
+
+    <img
+      alt="pacman contribution graph"
+      src="https://raw.githubusercontent.com/meta-config/meta-config/pacman-output/pacman-contribution-graph.svg"
+    />
+
+  </picture>
+</p>
+
 ---
 
 # 📈 GitHub Presence
