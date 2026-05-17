@@ -152,7 +152,7 @@ interests:
 </p>
 
 ---
-```md
+
 # 👾 Pacman Contribution Graph
 
 <p align="center">
@@ -173,5 +173,15 @@ interests:
     >
   </picture>
 </p>
-```
 
+---
+
+# 📈 GitHub Presence
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Infrastructure;Distributed+Systems;Linux+Environments;Terminal-Centric+Development" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meta-config&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
