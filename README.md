@@ -160,32 +160,59 @@ interests:
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Infrastructure;Distributed+Systems;Linux+Environments;Terminal-Centric+Development" 
-    />
-  
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Infrastructure;Distributed+Systems;Linux+Environments;Terminal-Centric+Development" 
+  />
 </p>
 
-<div align="center">
+<br>
+
+<p align="center">
 
   <img 
-    src="https://streak-stats.demolab.com?user=meta-config&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=meta-config&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
   />
 
-<div >
+</p>
 
- <p align="left">
- <img 
+<br>
+
+<p align="center">
+
+  <img 
     src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
-    width="150"
-   />
- </p>
-   
-  <p align="center">
+    width="320"
+  />
+
+</p>
+
+<p align="center">
+  <i>distributed systems • backend infrastructure • linux ecosystems</i>
+</p>
+
+<br>
+
+<p align="center">
+
   <img 
     src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-    width="120"
+    width="170"
   />
-</p>
-  
-</div>
 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img 
+    src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
+    width="170"
+  />
+
+</p>
+
+<br>
+
+<p align="center">
+
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Systems...;Optimizing+Performance...;Exploring+Linux...;Learning+Low-Level+Computing...;Training+Models...;Learning+Never+Stops..."
+  />
+
+</p>
