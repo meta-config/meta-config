@@ -175,21 +175,13 @@ interests:
 </div>
 ---
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img 
-          src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-          width="180"
-        />
-      </td>
+  <img 
+    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+    width="180"
+  />
 
-      <td align="center">
-        <img 
-          src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
-          width="180"
-        />
-      </td>
-    </tr>
-  </table>
+  <img 
+    src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
+    width="180"
+  />
 </p>
