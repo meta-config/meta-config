@@ -170,64 +170,11 @@ interests:
     src="https://streak-stats.demolab.com?user=meta-config&theme=tokyonight&hide_border=true"
   />
 
-</div>
+<div align="left">
 
----
-
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+ <img 
+    src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
     width="200"
   />
-</p>
-<p align="center">
-
-  <img 
-    src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
-    width="500"
-  />
-
-</p>
-
-<p align="center">
-  <i>terminal-first workflow</i>
-</p>
-
----
-<p align="center">
-
-  <img 
-    src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
-    width="260"
-  />
-
-  <img 
-    src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"
-    width="260"
-  />
-
-</p>
-
----
-<p align="center">
-
-  <img 
-    src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
-    width="520"
-  />
-
-</p>
-
-<p align="center">
-  <i>distributed systems • scalable infrastructure • networking</i>
-</p>
-
----
-<p align="center">
-
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2x6M2c1b2JzdzBvY2x1Zm42eXJ6MnJ3dW9zOXAwZTI0MW50M3RkbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"
-    width="500"
-  />
-
-</p>
+  
+</div>
