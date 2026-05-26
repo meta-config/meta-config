@@ -164,13 +164,13 @@ interests:
   />
 </p>
 
-<p align="center">
+<div align="center">
 
   <img 
     src="https://streak-stats.demolab.com?user=meta-config&theme=tokyonight&hide_border=true"
   />
 
-</p>
+</div>
 
 ---
 
