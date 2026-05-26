@@ -161,6 +161,8 @@ interests:
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Infrastructure;Distributed+Systems;Linux+Environments;Terminal-Centric+Development" 
+    />
+  
 </p>
 
 <div align="center">
@@ -169,27 +171,21 @@ interests:
     src="https://streak-stats.demolab.com?user=meta-config&theme=tokyonight&hide_border=true"
   />
 
-<div align="left">
+<div >
 
+ <p align="left">
  <img 
     src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
     width="150"
-  />
-  
-</div>
-
-
-<p align="center">
-
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Systems...;Optimizing+Performance...;Exploring+Low-Level+Computing...;Learning+Never+Stops..."
-  />
-
-</p>
-
-<p align="center">
+   />
+ </p>
+   
+  <p align="center">
   <img 
     src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
     width="120"
   />
 </p>
+  
+</div>
+
