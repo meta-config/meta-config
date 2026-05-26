@@ -168,12 +168,12 @@ interests:
 
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=meta-config&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api?username=meta-config&show_icons=true&theme=tokyonight&hide_border=true"
   />
 
   <img 
     height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=meta-config&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meta-config&layout=compact&theme=tokyonight&hide_border=true"
   />
 
 </p>
@@ -181,17 +181,7 @@ interests:
 <p align="center">
 
   <img 
-    width="60%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=meta-config&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9"
-  />
-
-</p>
-
-<p align="center">
-
-  <img 
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meta-config&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    src="https://streak-stats.demolab.com?user=meta-config&theme=tokyonight&hide_border=true"
   />
 
 </p>
