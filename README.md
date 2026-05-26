@@ -161,7 +161,6 @@ interests:
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Infrastructure;Distributed+Systems;Linux+Environments;Terminal-Centric+Development" 
-  />
 </p>
 
 <div align="center">
@@ -174,7 +173,7 @@ interests:
 
  <img 
     src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
-    width="200"
+    width="150"
   />
   
 </div>
