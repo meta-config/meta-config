@@ -156,13 +156,42 @@ interests:
 </p>
 
 ---
-
 # 📈 GitHub Presence
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Infrastructure;Distributed+Systems;Linux+Environments;Terminal-Centric+Development" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Infrastructure;Distributed+Systems;Linux+Environments;Terminal-Centric+Development" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meta-config&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=meta-config&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
+  />
+
+  <img 
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=meta-config&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"
+  />
+
+</p>
+
+<p align="center">
+
+  <img 
+    width="60%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=meta-config&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9"
+  />
+
+</p>
+
+<p align="center">
+
+  <img 
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meta-config&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+  />
+
 </p>
