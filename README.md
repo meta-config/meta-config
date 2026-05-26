@@ -167,21 +167,24 @@ interests:
 <p align="center">
 
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=meta-config&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=meta-config&theme=tokyonight&hide_border=true"
   />
 
+</p>
+
+---
+
+<p align="center">
+
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meta-config&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Systems...;Optimizing+Performance...;Exploring+Low-Level+Computing...;Learning+Never+Stops..."
   />
 
 </p>
 
 <p align="center">
-
   <img 
-    src="https://streak-stats.demolab.com?user=meta-config&theme=tokyonight&hide_border=true"
+    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+    width="120"
   />
-
 </p>
